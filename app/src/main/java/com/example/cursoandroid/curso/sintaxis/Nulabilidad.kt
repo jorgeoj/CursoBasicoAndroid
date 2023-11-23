@@ -1,4 +1,4 @@
-package com.example.cursoandroid.curso
+package com.example.cursoandroid.curso.sintaxis
 
 fun main(){
 
