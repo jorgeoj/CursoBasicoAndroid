@@ -21,7 +21,6 @@ fun main(){
 
     printNotificationSummary(morningNotification)
     printNotificationSummary(eveningNotification)
-
 }
 
 fun printNotificationSummary(numberOfMessages: Int) {
